@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT savan_astrology_4534.wsgi:application
